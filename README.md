@@ -12,11 +12,24 @@
 
 ## Considerations
 
-1. The About view displays what has been implemented, extras, and what has not been implemented
+**Overview:**
+The "About" view displays what has been implemented, extras, and what has not been implemented.
 
-2. A geofence vertex can be confirmed using both right and left clicks
+**Geofence Selection:**
+To select a geofence, simply click on it (it will turn red), and to deselect it, click again (verify if it was a right or left click).
 
-3. To place a marker, right-click inside a geofence, and to delete it, left-click and press Delete
+**Geofence Vertex Confirmation:**
+A geofence vertex can be confirmed using both right and left clicks.
+
+**Marker Manipulation:**
+To place a marker, right-click inside a geofence, and to delete it, left-click and press "Delete".
+
+**Manual Vertex Editing:**
+Use the right sidebar to manually edit the vertices.
+
+**Functionality in Editable View:**
+Within the "Editable" view, the requested functionalities implemented via the map, cursor, and editor on the right side of the map can be carried out.
+
 
 ## Folder Structure
 
