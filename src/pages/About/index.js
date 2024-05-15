@@ -12,7 +12,7 @@ const DrawMap = () => {
         <div className="col text-center">
           <h2>Project designed by Maximiliano Perry</h2>
           <div className="image-container">
-            <img src={image01} alt="Project Image" className="round-image" />
+            <img src={image01} alt="Project" className="round-image" />
           </div>
           <div className="col">
             <h3>Implementations</h3>

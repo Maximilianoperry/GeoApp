@@ -24,8 +24,9 @@ export const Navbar = () => {
                     <p className="mb-0 mt-2">
                         <div>
                             <a
-                                class="github-button mr-3"
+                                className="github-button mr-3"
                                 target="_blank"
+                                rel="noopener noreferrer" // Agrega este atributo
                                 href="https://github.com/Maximilianoperry"
                                 data-size="large"
                                 data-show-count="true"
