@@ -1,0 +1,23 @@
+.leaflet-container {
+  height: 600px;
+  width: 60%;
+  display: inline-block;
+}
+
+.content {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+.popup-button {
+  background-color: #ac0000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.popup-button:hover {
+  background-color: #cc0000;
+}
