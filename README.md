@@ -3,7 +3,8 @@
 
 ## How to run the App
 
-- npm i react-leaflet
+- npm install
+- npm install react-leaflet
 - npm start
 
 ## Assumptions
