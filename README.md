@@ -3,7 +3,7 @@
 
 ## How to run the App
 
-**"Running in the terminal:**
+**Running in the terminal:**
 - npm install
 - npm install react-leaflet
 - npm start
